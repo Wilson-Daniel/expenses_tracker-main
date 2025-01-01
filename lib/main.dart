@@ -14,7 +14,6 @@ void main() async {
   await ScreenUtil.ensureScreenSize();
   await GetStorage.init();
   await DatabaseProvider.initDb();
-
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
   runApp(MyApp());
 }
