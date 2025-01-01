@@ -1,6 +1,6 @@
 {
-    "name": "expenses_tracker",
-    "short_name": "expenses_tracker",
+    "name": "flutter_expense_manager",
+    "short_name": "flutter_expense_manager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
