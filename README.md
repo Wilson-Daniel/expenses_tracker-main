@@ -72,9 +72,9 @@ The Personal Expense Tracker App is a Flutter-based mobile application designed 
 
 ## Dependencies
 ### Primary Dependencies
-- **Hive**: For local data persistence.
+- **SQLite**: For local data persistence.
 - **Provider**: For state management.
-- **Flutter Local Notifications**: *Pending implementation.*
+- **Flutter Local Notifications**
 
 ### Development Dependencies
 - **Flutter Test**: For unit testing.
@@ -83,7 +83,7 @@ The Personal Expense Tracker App is a Flutter-based mobile application designed 
 ---
 
 ## Testing
-- *Pending*: Unit tests for business logic.
+- Unit tests for business logic.
 - Testing framework setup is in place for integration and unit testing.
 
 ---
